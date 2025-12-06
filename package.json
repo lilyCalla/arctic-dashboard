@@ -1,0 +1,23 @@
+{
+  "name": "arctic-dashboard",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+	"start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilyCalla/arctic-dashboard.git"
+  },
+  "author": "LilyCalla",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lilyCalla/arctic-dashboard/issues"
+  },
+  "homepage": "https://github.com/lilyCalla/arctic-dashboard#readme",
+  "devDependencies": {
+    "electron": "^39.2.6"
+  }
+}
